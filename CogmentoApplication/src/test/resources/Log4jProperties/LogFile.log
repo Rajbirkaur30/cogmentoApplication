@@ -1,0 +1,262 @@
+2020-09-05 21:29:20,395 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 21:29:24,077 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 21:29:27,589 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 21:29:27,590 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 21:29:27,985 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 21:29:28,059 - com.baseClass.Library -INFO - Login successfully
+2020-09-05 21:36:05,882 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 21:36:09,600 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 21:36:13,041 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 21:36:13,042 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 21:36:13,445 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 21:36:13,521 - com.baseClass.Library -INFO - Login successfully
+2020-09-05 21:38:08,999 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 21:38:12,709 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 21:38:18,845 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 21:38:18,845 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 21:38:19,228 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 21:38:19,301 - com.baseClass.Library -INFO - Login successfully
+2020-09-05 21:41:13,057 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 21:41:16,802 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 21:41:20,223 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 21:41:20,224 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 21:41:20,620 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 21:41:20,696 - com.baseClass.Library -INFO - Login successfully
+2020-09-05 22:01:20,069 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 22:01:23,935 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 22:01:27,453 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 22:01:27,454 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 22:01:27,910 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 22:01:28,007 - com.baseClass.Library -INFO - Login successfully
+2020-09-05 22:35:48,038 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 22:35:51,825 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 22:35:55,334 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 22:35:55,335 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 22:35:55,711 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 22:35:55,784 - com.baseClass.Library -INFO - Login successfully
+2020-09-05 22:36:40,039 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 22:36:43,792 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 22:36:46,999 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 22:36:46,999 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 22:36:47,434 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 22:36:47,492 - com.baseClass.Library -INFO - Login successfully
+2020-09-05 22:50:27,114 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 22:50:30,640 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 22:50:34,013 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 22:50:34,014 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 22:50:34,293 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 22:50:34,340 - com.baseClass.Library -INFO - Login successfully
+2020-09-05 23:20:10,642 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 23:20:14,329 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 23:20:17,669 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 23:20:17,670 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 23:20:17,991 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 23:20:18,041 - com.baseClass.Library -INFO - Login successfully
+2020-09-05 23:20:59,892 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 23:21:03,572 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 23:21:06,885 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 23:21:06,885 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 23:21:07,199 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 23:21:07,254 - com.baseClass.Library -INFO - Login successfully
+2020-09-05 23:54:43,733 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-05 23:54:47,452 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-05 23:54:51,053 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-05 23:54:51,054 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-05 23:54:51,356 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-05 23:54:51,409 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 00:28:59,109 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 00:29:02,693 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 00:29:06,193 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 00:29:06,193 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 00:29:06,483 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 00:29:06,549 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 00:31:14,419 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 00:31:17,932 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 00:31:21,145 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 00:31:21,145 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 00:31:21,414 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 00:31:21,467 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 00:33:26,265 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 00:33:29,827 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 00:33:33,068 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 00:33:33,068 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 00:33:33,355 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 00:33:33,420 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 00:35:52,018 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 00:35:55,575 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 00:35:58,809 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 00:35:58,809 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 00:35:59,138 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 00:35:59,201 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 00:39:35,353 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 00:39:38,882 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 00:39:42,087 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 00:39:42,087 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 00:39:42,379 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 00:39:42,428 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 00:42:37,612 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 00:42:41,169 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 00:42:44,429 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 00:42:44,429 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 00:42:44,720 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 00:42:44,772 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 01:24:04,027 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 01:24:07,592 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 01:24:10,848 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 01:24:10,849 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 01:24:11,138 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 01:24:11,186 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 01:39:18,199 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 01:39:21,735 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 01:39:25,064 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 01:39:25,065 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 01:39:25,318 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 01:39:25,369 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 01:53:46,695 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 01:53:50,247 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 01:53:53,451 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 01:53:53,452 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 01:53:53,749 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 01:53:53,806 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 01:55:04,127 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 01:55:07,642 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 01:55:10,922 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 01:55:10,923 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 01:55:11,206 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 01:55:11,258 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 01:55:45,623 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 01:55:49,191 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 01:55:52,436 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 01:55:52,436 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 01:55:52,809 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 01:55:52,862 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 01:57:42,576 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 01:57:46,087 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 01:57:49,349 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 01:57:49,349 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 01:57:49,637 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 01:57:49,684 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 02:17:19,459 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 02:17:23,051 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 02:17:26,292 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 02:17:26,293 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 02:17:26,595 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 02:17:26,657 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 02:20:25,992 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 02:20:29,554 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 02:20:32,849 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 02:20:32,849 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 02:20:33,119 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 02:20:33,172 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 02:22:38,493 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 02:22:42,044 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 02:22:45,301 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 02:22:45,302 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 02:22:45,607 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 02:22:45,659 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 02:25:48,088 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 02:25:51,698 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 02:25:55,017 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 02:25:55,018 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 02:25:55,292 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 02:25:55,342 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 02:40:01,302 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 02:40:04,882 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 02:40:08,182 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 02:40:08,183 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 02:40:08,483 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 02:40:08,541 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 02:40:39,592 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 02:40:43,091 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 02:40:46,318 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 02:40:46,319 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 02:40:46,612 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 02:40:46,669 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 02:43:16,097 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 02:43:19,612 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 02:43:22,892 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 02:43:22,892 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 02:43:23,184 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 02:43:23,245 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 02:48:48,325 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 02:48:51,862 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 02:48:55,110 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 02:48:55,110 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 02:48:55,395 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 02:48:55,456 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 02:54:42,267 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 02:54:46,017 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 02:54:49,586 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 02:54:49,587 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 02:54:49,983 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 02:54:50,064 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 02:56:21,344 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 02:56:25,076 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 02:56:28,845 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 02:56:28,845 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 02:56:29,236 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 02:56:29,313 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 14:01:42,314 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 14:01:46,150 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 14:01:50,275 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 14:01:50,275 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 14:01:50,627 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 14:01:50,697 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 14:02:11,643 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 14:02:15,494 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 14:02:18,887 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 14:02:18,888 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 14:02:19,239 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 14:02:19,320 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 15:06:31,086 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 15:06:34,852 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 15:06:38,357 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 15:06:38,357 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 15:06:38,723 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 15:06:38,795 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 15:10:54,350 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 15:10:58,091 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 15:11:01,680 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 15:11:01,682 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 15:11:02,099 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 15:11:02,167 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 15:19:17,699 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 15:19:21,470 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 15:19:24,877 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 15:19:24,878 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 15:19:25,243 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 15:19:25,317 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 15:28:49,181 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 15:28:52,918 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 15:28:56,607 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 15:28:56,608 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 15:28:56,986 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 15:28:57,063 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 15:31:54,301 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 15:31:58,033 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 15:32:01,577 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 15:32:01,578 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 15:32:01,979 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 15:32:02,055 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 15:32:18,485 - com.baseClass.Library -INFO - No Message here is dispalying
+2020-09-06 16:20:09,900 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 16:20:14,032 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 16:20:17,719 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 16:20:17,720 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 16:20:18,232 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 16:20:18,316 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 16:20:35,364 - com.baseClass.Library -INFO - No Message here is dispalying
+2020-09-06 16:44:05,292 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 16:44:09,054 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 16:44:12,643 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 16:44:12,643 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 16:44:13,138 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 16:44:13,226 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 16:44:29,701 - com.baseClass.Library -INFO - No Message here is dispalying
+2020-09-06 16:57:44,532 - com.baseClass.Library -INFO - Starting with Browser Set Up
+2020-09-06 16:57:48,193 - com.baseClass.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-06 16:57:51,655 - com.baseClass.Library -INFO - Launched the Cogmento Application
+2020-09-06 16:57:51,655 - com.baseClass.Library -INFO - Browser Launched and navigate to URL
+2020-09-06 16:57:52,006 - com.baseClass.Library -INFO - LoginEmail and password entered successfully
+2020-09-06 16:57:52,062 - com.baseClass.Library -INFO - Login successfully
+2020-09-06 16:58:07,843 - com.baseClass.Library -INFO - No Message here is dispalying
